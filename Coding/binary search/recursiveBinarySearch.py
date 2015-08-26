@@ -1,6 +1,6 @@
 __author__ = 'lindam'
 
-#AAAAAAAAAAAAA
+#AAAAAAAAAAAAAa
 
 def binarySearch(target,mylist):
     if len(mylist)==0:
